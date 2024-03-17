@@ -1,0 +1,69 @@
+
+# Test Task 
+
+This is a test task for Builg company in Full Stack Developer position. 
+
+written by Arzoyan Ruben.
+
+
+
+
+## Tech Stack
+
+**Client:** Next JS V14, TailwindCSS, (custom css)
+
+**Server:** Node v20, PostgreSQL, Strapi CMS
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Arzoyan/user-list-nextjs.git
+```
+
+We have 2 projects here. We need to install both. task-api for backend and task-front for frontend.
+the firs instal backend using this following steps
+
+Go to the task-api directory
+
+```bash
+  cd task-api
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run develop
+```
+Now install frontend using this following steps,
+Open new terminal. Go to the task-front directory
+
+```bash
+  cd task-front
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-arzoyan/)
+
+
